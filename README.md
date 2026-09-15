@@ -1,6 +1,6 @@
 ## Hi, I'm Pranavv 👋
 
-🎓 MSc Immersive Technology from the University of Bristol, UK
+🎓 MSc Immersive Technology from the University of Bristol, UK.
 🥽 Building AR and VR experiences with Unity for education, interactive storytelling, and real-world applications.  
 🔬 Currently exploring 3D Gaussian Splatting and WebXR deployment.  
 💡 Always open to discussions, prototyping, and new ideas for creating interactive digital experiences.  
