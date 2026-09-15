@@ -1,20 +1,10 @@
-## Hi there 👋
+## Hi, I'm Pranavv 👋
 
-# Hi, I'm [Your Name] 👋
-
-### AR/VR Developer | MSc Immersive Technologies
-
-Building immersive experiences with Unity, C#, XR interaction and emerging 3D technologies.
-
----
-
-## 🥽 About Me
-
-I'm an Immersive Technologies graduate focused on developing interactive AR and VR experiences using Unity and C#.
-
-My interests include XR interaction, immersive environments, spatial experiences and emerging technologies such as 3D Gaussian Splatting.
-
-I also have a background in Artificial Intelligence and Data Science.
+🎓 MSc Immersive Technology from the University of Bristol, UK
+🥽 Building AR and VR experiences with Unity for education, interactive storytelling, and real-world applications.  
+🔬 Currently exploring 3D Gaussian Splatting and WebXR deployment.  
+💡 Always open to discussions, prototyping, and new ideas for creating interactive digital experiences.  
+🤝 Let's connect and build engaging experiences with AR, VR, and WebXR.
 
 ---
 
