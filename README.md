@@ -28,14 +28,14 @@
 
 ## 🚀 Featured Projects
 
-### Under the Memory
+### 🌊 Under the Memory
 An environment based VR experience that reconstructs Bristol Harbourside through 3D Gaussian Splatting, Unity, Reality Scan and immersive XR interaction, using environmental storytelling to explore the impact of long-term sea-level rise.
 
-### AR Cocktail Menu  
+### 🍸 AR Cocktail Menu  
 An AR cocktail menu application for bars, restaurants, and other drink-serving venues, presenting interactive 3D cocktail visualisations with a physical bottle coaster through Unity and AR Foundation.  
 Key features include drink switching, drink and ingredient information, cocktail composition and mixing ratios and a 360° preview of each drink.  
 
-### LiarVR  
+### 🎭 LiarVR VR Game
 A two-player multiplayer VR card game inspired by Liar’s Bar, centred on bluffing, deception, and strategic challenges, creating a competitive social experience through immersive interaction in Unity.
 The game features include networked multiplayer, turn-based card play, bluff/challenge mechanics, hand-based interaction, body-tracked avatars, and dedicated victory/defeat sequences.
 
@@ -43,7 +43,7 @@ The game features include networked multiplayer, turn-based card play, bluff/cha
 
 ## 🤝 Let's Connect
 
-[`LinkedIn`](https://www.linkedin.com/in/pranavv-jothinathan/) &nbsp;• &nbsp;Portfolio &nbsp;• &nbsp;[`Email`](mailto:pranavvjofficial@gmail.com)
+💼[**_LinkedIn_**](https://www.linkedin.com/in/pranavv-jothinathan/) &nbsp;• &nbsp;🌐 **_Portfolio_** &nbsp;• &nbsp;✉️[**_Email_**](mailto:pranavvjofficial@gmail.com)
 <!--
 **pranavv-jothinathan/pranavv-jothinathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
